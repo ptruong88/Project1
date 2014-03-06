@@ -1,0 +1,6 @@
+<Ontology name="NER">
+<item  name="Person" annotation="true" color="red" value="per"/>
+<item  name="Location" annotation="true" color="green" value="loc"/>
+<item  name="Organization" annotation="true" color="blue" value="org"/>
+<item  name="Time" annotation="true" color="yellow" value="time"/>
+</Ontology>

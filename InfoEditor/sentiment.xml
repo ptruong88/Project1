@@ -1,0 +1,5 @@
+<Ontology name="Sentiment">
+<item  name="Happy" annotation="true" color="red" value="hap"/>
+<item  name="Sad" annotation="true" color="green" value="sad"/>
+<item  name="Confused" annotation="true" color="blue" value="con"/>
+</Ontology>
